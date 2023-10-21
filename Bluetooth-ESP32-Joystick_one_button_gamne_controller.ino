@@ -1,3 +1,4 @@
+// The code is based on the BleGamepad.h library https://github.com/lemmingDev/ESP32-BLE-Gamepad and the code example in Arduino IDE (File > Example > ESP32-BLE-Gamepad > SingleButton)
 #include <Arduino.h>
 #include <BleGamepad.h>
 
